@@ -1,0 +1,19 @@
+body {
+    font-family: Comic Sans MS, sans-serif;
+    margin: 20px;
+    background-color: #cdff42;
+}
+
+h1 {
+    color: #ff6347;
+    text-align: center;
+    font-size: 36px;
+    font-family: "Arial Black", sans-serif;
+}
+
+h2 {
+    color: #FFD700;
+    margin-top: 20px;
+    font-size: 28px;
+    font-family: "Italic Bold", sans-serif;
+}
